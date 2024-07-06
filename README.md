@@ -8,3 +8,5 @@ Published:
 17 Apr 2024
 DOI:
 10.17632/fb6dm3yb6m.1
+
+Paper title: "Unveiling Personality Traits through Bangla Speech using Morlet Wavelet Transformation and BiG"

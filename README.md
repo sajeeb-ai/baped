@@ -10,3 +10,5 @@ DOI:
 10.17632/fb6dm3yb6m.1
 
 Paper title: "Unveiling Personality Traits through Bangla Speech using Morlet Wavelet Transformation and BiG"
+
+DOI: doi.org/10.1016/j.nlp.2024.100113
